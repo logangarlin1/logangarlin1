@@ -4,6 +4,6 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: = [https://www.linkedin.com/in/logan-garlin-9554b5334/]
 
 
